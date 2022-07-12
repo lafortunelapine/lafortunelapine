@@ -17,7 +17,7 @@ Sou designer gráfico e iniciante em programação. Objetivo: criar jogos.
 
 Considere me pagar um café para me incentivar a continuar no código
 
-![Ko-fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)
+[<img src='https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white'>](https://ko-fi.com/banne)
 
 # Projetos
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=lafortunelapine&repo=devweekgit.github.io)](https://github.com/lafortunelapine/devweekgit.github.io)
