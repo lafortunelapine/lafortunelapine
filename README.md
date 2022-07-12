@@ -13,14 +13,14 @@ Sou designer gráfico e iniciante em programação. Objetivo: criar jogos.
 ![](https://img.shields.io/badge/Miro-050038?style=for-the-badge&logo=Miro&logoColor=white)
 ![](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lafortunelapine&theme=highcontrast&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lafortunelapine&theme=highcontrast&show_icons=true)](https://github.com/lafortunelapine)
 
 Considere me pagar um café para me incentivar a continuar no código
 
 ![Ko-fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)
 
 # Projetos
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=lafortunelapine&repo=devweekgit.github.io)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=lafortunelapine&repo=devweekgit.github.io)](https://github.com/lafortunelapine/devweekgit.github.io)
 
 # Contato
 [<img src='https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white'>](https://www.linkedin.com/in/banne-omena/)
